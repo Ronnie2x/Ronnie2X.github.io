@@ -1,0 +1,23 @@
+body{
+    background-color: blanchedalmond;
+    font-family: sans-serif;
+    color: black;
+    text-align: center;
+    
+}
+nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    display: block;
+    width: 1080px;
+    background-color: #dddddd;
+}
+
+img{
+    max-width: 30%;
+    height: auto;
+}
